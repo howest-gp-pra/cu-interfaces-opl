@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pra.Interfaces.CORE/Pra.Interfaces.CORE.csproj" />
+  <Project Path="Pra.Interfaces.WPF/Pra.Interfaces.WPF.csproj" />
+</Solution>
